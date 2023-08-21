@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"name": "stack",
+			"path": "../../stack"
+		},
+		{
+			"name": "Linked List",
+			"path": "../../Linked List"
+		},
+		{
+			"name": "image1",
+			"path": "E:/html 101/new html/image1"
+		},
+		{
+			"name": "Queue",
+			"path": "../../Queue"
+		},
+		{
+			"name": "nonviral",
+			"path": "../../../nonviral"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "nonviral",
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"array": "cpp",
+			"tuple": "cpp",
+			"utility": "cpp",
+			"new": "cpp"
+		}
+	},
+	"extensions": {
+		"recommendations": []
+	}
+}
